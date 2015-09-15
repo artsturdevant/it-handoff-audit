@@ -95,12 +95,14 @@ What are the most mission critical servers?
 (list here)
 
 What is the password policy for servers?
-     - Where are the passwords to critical systems stored?
-     - Is there a procedure in place to make sure that passwords are kept up-to-date?
-     - Is Active Directory in place?
-     - Is the Administrator/root password different on client than it is on servers?
+
+- Where are the passwords to critical systems stored?
+- Is there a procedure in place to make sure that passwords are kept up-to-date?
+- Is Active Directory in place?
+- Is the Administrator/root password different on client than it is on servers?
 
 Who is hosting Website/Designing Websites?
+
 - What is the monthly costs
 - Can I review the terms and agreement?
 - Is there any analytics data available for website usage?
