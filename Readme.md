@@ -66,18 +66,31 @@ Please list third-parties that interact with our IT systems:
 
 ##Servers##
 How many servers are in use?
+
 Physical Hardware & age of machines
+
 Virtual Software & version of host operating system
+
 How do we manage DNS?
+
 What operating systems are installed on the servers?     
+
 Who installed the servers?
+
 Do any servers require redundant power?
+
 How many servers are over 3 years old?
+
 What is the replacement policy for server and network hardware?
+
 How long would it take to rebuild mission critical systems in the case of a fire or natural disaster?
+
 When was the last time the backup dataset was tested?
+
 Is there any alerting if a backup fails?
+
 Does each server have a disaster recovery plan?
+
 What are the most mission critical servers?
 (list here)
 
@@ -94,21 +107,34 @@ Who is hosting Website/Designing Websites?
 
 ##Backup:##
 What software is in use for backups?
+
 Is the software up to date?
+
 Is the 3-2-1 rule in place and followed?
+
 Who is responsible for the backup sets?
+
 How do servers or files make it into the backup set?
+
 How quickly are your backup sets growing?
+
 How much storage is available for backups onsite?
+
 How much storage is available for backups offsite?
+
 Are backups being performed regularly?
+
 When were the backups last tested?
+
 Are the backups encrypted in any way?
+
 Who has the key?
+
 What happens if they get hit by a bus at the exact time you need to restore from a backup?
 
 ##Infrastructure:##
 How many clients/ client computers are managed?
+
 Who is our ISP?
 
 - Do we have redundant connections?
@@ -140,6 +166,7 @@ How is security handled on the network?
 - Are there any VLANs in place?
 
 What is the internal wired network speed?
+
 What is the internal wireless speed? What versions of 802.11 are available?
 (a, b, g, n)
 
@@ -155,6 +182,7 @@ Who manages the licenses for:
 	- Other: (list)
 
 Is there an accurate inventory of software in use?
+
 Is group policy in use? If so, what is it managing?
 
 Is there any sort of configuration management in place for managing OS installation, updates, or software installations?
